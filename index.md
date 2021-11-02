@@ -1,5 +1,5 @@
-![Home](./index.md) 
-![Readme](./README.md)
+![Home](index.md)
+![Readme](README.md)
 
 text
 
