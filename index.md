@@ -2,5 +2,3 @@
 ![Readme](README.md)
 
 text
-
-something else
