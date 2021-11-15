@@ -1,3 +1,3 @@
-# zwang20.github.io
+# UNSW-Puzzle-Society.github.io
 
-[zwang20.github.io](https://zwang20.github.io/)
+[UNSW-Puzzle-Society.github.io](https://UNSW-Puzzle-Society.github.io)
