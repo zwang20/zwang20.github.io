@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## Projects
 
 #### [deployment-bot-6](https://github.com/zwang20/deployment-bot-6)
